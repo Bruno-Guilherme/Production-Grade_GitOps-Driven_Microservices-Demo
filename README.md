@@ -1,5 +1,11 @@
 # Project Introduction
 
+> [!TIP]
+> 📚 **Quer aprender DevOps usando este projeto como referência?** Confira o
+> [Curso de DevOps na Prática](docs/curso-devops/00-indice.md) — 18 aulas cobrindo containers,
+> Kubernetes, Terraform, Kustomize, Helm, GitOps (ArgoCD), CI/CD, observabilidade, Istio,
+> escalabilidade e segurança, tudo baseado nos arquivos reais deste repositório.
+
 # Intro to Online Boutique App
 
 This is a type of e-commerce platform, but unlike Amazon-type stores, it focuses on:
